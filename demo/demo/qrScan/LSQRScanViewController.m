@@ -1,11 +1,3 @@
-//
-//  HMQRScanViewController.m
-//  05-二维码扫描封装
-//
-//  Created by shenzhenIOS on 16/3/28.
-//  Copyright © 2016年 shenzhenIOS. All rights reserved.
-//
-
 #import "LSQRScanViewController.h"
 #import "LSQRScanView.h"
 #import <AVFoundation/AVFoundation.h>
